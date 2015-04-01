@@ -1,0 +1,11 @@
+README
+
+A staff mediated mechanism for recording a submission of work by a student, even though the submission
+may not be suitable for capturing in Moodle itself i.e. models, physical submissions.
+
+Students shall be able to generate an identifier for a piece of work, and by passing that information
+to a member of staff, the staff can record that the work has been submitted.
+
+A self service module may be explored where a kiosk capable of scanning such an identifier and emitting
+a receipt may be possible, however validating the deposit of said item vs the "claim" that it was deposited 
+may be an issue.
